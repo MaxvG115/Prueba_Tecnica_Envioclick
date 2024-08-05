@@ -33,7 +33,7 @@ Para ejecutar los archivos, sigue estos pasos:
 
     ```bash
     git clone <URL_DEL_REPOSITORIO>
-    cd <NOMBRE_DEL_REPOSITORIO>
+    cd Prueba_Tecnica_Envioclick
     ```
 
 2. **Ejecuta los ejercicios**:
